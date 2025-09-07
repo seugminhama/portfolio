@@ -3,9 +3,11 @@
 
 # Data Scientist Portfolio
 안녕하세요!
+
 저는 **통계데이터사이언스학과 & 수학과**를 복수전공 중이며, 데이터 분석과 머신러닝 모델 개발에 관심을 두고 공부하고 있습니다.
 이 레포지토리는 수업, 개인 프로젝트, 그리고 공모전에서 진행한 **데이터 분석 및 예측 모델링 프로젝트**를 정리해둔 포트폴리오입니다.
 Hi there👋
+
 I am an undergraduate student majoring in **Statistics Data Science and Mathematics**,
 interested in data analysis and machine learning model development.
 This repository is my **portfolio of data analysis projects**, including coursework, personal studies, and competition entries.
