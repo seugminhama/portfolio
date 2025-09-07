@@ -30,6 +30,8 @@ This repository is my **portfolio of data analysis projects**, including coursew
   신용카드 사용자 데이터를 활용한 고객 세그먼트 분석
 - [Apartment Price Prediction](projects/finance/apartment_price/notebook.ipynb)  
   아파트 실거래가 데이터를 활용한 가격 예측 프로젝트
+- [Regional Economy Prediction Map](projects/finance/regional_economy_map/notebook.ipynb)  
+  지역별 경제 데이터를 활용해 예측값을 지도 위에 시각화한 프로젝트
 
 ### 📈 Marketing & Forecasting
 - [Bike Demand Forecasting](projects/marketing/bike_demand/notebook.ipynb)  
