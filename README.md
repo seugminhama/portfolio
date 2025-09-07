@@ -22,6 +22,8 @@ This repository is my **portfolio of data analysis projects**, including coursew
   건강 설문 데이터를 활용해 당뇨병 여부를 분류한 프로젝트
 - [Thyroid Disease Classification](projects/healthcare/thyroid_classification/notebook.ipynb)  
   의료 데이터를 기반으로 갑상선 질환 예측 모델 구축
+- [Heart Disease Classification] (projects/healthcare/heart_disease/notebook.ipynb)
+  심혈관질환 예측 모델 구축
 
 ### 💰 Finance
 - [Credit Segmentation](projects/finance/credit_segmentation/notebook.ipynb)  
